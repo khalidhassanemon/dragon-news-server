@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "category": "Platinum"
+    },
+    {
+      "id": "02",
+      "category": "Gold"
+    },
+    {
+      "id": "03",
+      "category": "Bronze"
+    },
+    {
+      "id": "04",
+      "category": "Aluminium"
+    },
+    {
+      "id": "05",
+      "category": "Steel"
+    },
+    {
+      "id": "06",
+      "category": "Titanium"
+    },
+    {
+      "id": "07",
+      "category": "Lead"
+    },
+    {
+      "id": "08",
+      "category": "Iron"
+    }
+  ]
